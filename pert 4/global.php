@@ -42,7 +42,7 @@
     </form>
     <br>
     <ul>
-        <li>Luas Selimut : <?= $tabung->getLuasSelimut(); ?></li>
+        <li>Luas Selimut : <?= $tabung->getLuasSelimutTab(); ?></li>
         <li>Volume : <?= $volume; ?></li>
     </ul>
 </body>
